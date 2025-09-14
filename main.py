@@ -2,7 +2,7 @@
 import os
 import requests
 
-API_KEY = "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"
+API_KEY = ""
 BASE_URL = "https://openrouter.ai/api/v1"
 MODEL_NAME = "deepseek/deepseek-r1-0528-qwen3-8b:free"
 
